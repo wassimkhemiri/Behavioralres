@@ -2,12 +2,12 @@ spring:
   cloud:
     gateway:
       routes:
-        - id: API-SERVICE
-          uri: lb://API-SERVICE
+        - id: Annonce-Service
+          uri: lb://Annonce-SERVICE
           predicates:
-            - Path= /API/**
+            - Path= /Annonce/**
 
-        - id: AUTH-SERVICE
+        - id: Auth-SERVICE
           uri: lb://AUTH-SERVICE
           predicates:
             - Path= /auth/**
