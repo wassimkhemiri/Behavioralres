@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Annonce_Microserice.iml" filepath="$PROJECT_DIR$/.idea/Annonce_Microserice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Annonce_Microserice/Annonce_Microservice/Annonce_Microservice.iml" filepath="$PROJECT_DIR$/Annonce_Microserice/Annonce_Microservice/Annonce_Microservice.iml" />
+    </modules>
+  </component>
+</project>
